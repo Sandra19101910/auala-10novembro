@@ -1,0 +1,100 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #cacaca;
+}
+header{
+    width: 80%;
+    background-color: black;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+    overflow: hidden;
+}
+main{
+    width: 80%;
+    background-color: white;
+    border-style: solid;
+    margin-right: auto;
+    margin-left: auto;
+    border-width: 5px;
+    padding: 5px;
+    overflow: hidden;
+}
+
+article{
+    overflow: hidden;
+}
+footer{
+    width: 80%;
+    background-color: black;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    height: 30px;
+    padding: 10px;
+    
+
+}
+
+p{
+    margin: 10px;
+
+}
+img{
+    float: right ;
+    margin: 0px 0px 10px 10px;
+    max-width: 300px;
+    box-shadow: 3px 3px 5px 1px #cacaca ;
+}
+aside{
+    width: 80%;
+    background-color: #ccc;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    font-size: .8em;
+    border: 1px #000;
+    border-radius: 10px;
+    
+}
+hi{
+    font-size: 2em;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+}
+h2{
+    font-size: 1.6;
+}
+h3{
+    font-size: 1.3;
+}
+
+hgroup{
+    width: 70%;
+    float: left;
+}
+hgroup h1{
+    padding-top: 0;
+    line-height: 1em;
+}
+
+hgroup h2{
+    text-transform: uppercase;
+    font-size: 1.2em;
+    line-height: 1em;
+}
+nav{
+    width: 30%;
+    float: right
+}
+
+nav ul{
+    list-style-type: none;
+}
+nav li{
+    float: left;
+    margin: right;
+    margin-right: 20px;
+}
